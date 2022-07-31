@@ -3,7 +3,7 @@ Program my_answer6193
  INTEGER, PARAMETER :: LEN_STR = 80
  INTEGER :: i ,id,A(10),X(10),j,k,y(10)
  CHARACTER(len=LEN_STR) :: string1
-  CHARACTER(len=LEN_STR) :: string2
+ CHARACTER(len=LEN_STR) :: string2
   WRITE (*,*) 'Please enter string of input letters:'
   READ (*,*) string1
  j=0
