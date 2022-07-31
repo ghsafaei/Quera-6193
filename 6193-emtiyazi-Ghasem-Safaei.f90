@@ -1,4 +1,4 @@
-Program my_8
+Program my_answer6193
  implicit none
  INTEGER, PARAMETER :: LEN_STR = 80
  INTEGER :: i ,id,A(10),X(10),j,k,y(10)
